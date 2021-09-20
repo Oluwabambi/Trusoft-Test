@@ -1,0 +1,31 @@
+.def {
+    position: relative;
+}
+.navb {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+h1, p, .line {
+    margin-left: 40px;
+}
+img {
+    margin-right: 50px;
+}
+p {
+    color: #28C7FA;
+}
+.line {
+    width: 1259px;
+    height: 0;
+    border: 1px solid #6D6969;
+}
+.line-two {
+    position: absolute;
+    width: 740px;
+    height: 0px;
+    left: 30px;
+    top: 529px;
+    border: 1px solid #6D6969;
+    transform: rotate(90deg);
+}

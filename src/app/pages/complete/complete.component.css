@@ -1,0 +1,120 @@
+.cons {
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 40px;
+    margin-top: 60px;
+    margin-right: 40px;
+}
+.steps {
+    color: white;
+    margin-left: 7%;
+    margin-top: 2%;
+}
+.form {
+    color:white;
+    margin-left: 8%;
+}
+p + p {
+    line-height: 0;
+}
+.namefill {
+    width: 22rem;
+}
+.bgp {
+    background-color: #02044A;
+    border-color: #28C7FA;
+    color: white;
+}
+.colb {
+    color: #28C7FA;
+}
+.colg {
+    color: #61707f;
+}
+.direct {
+    display: flex;
+    justify-content: flex-end;
+}
+.direct a {
+    text-decoration: none;
+    color: white;
+}
+.goback {
+    margin-left: 20px;
+    padding: 0.375rem 1.75rem;
+}
+.buttn {
+    padding: 0.375rem 1.75rem;
+    background-color: #28C7FA;
+    border-radius: 1.25rem;
+    color: white;
+}
+.secp {
+    margin-right: 20px;
+}
+.icons {
+    background-color: gray;
+    border-radius: 50%;
+    font-size: 25px;
+    padding: 5px;
+    margin-right: 124px;
+}
+span {
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    background-color: skyblue;
+    margin-top: 10px;
+    margin-left: -9px;
+}
+.activ {
+    background-color: #28C7FA;
+}
+.itms {
+    margin-top: 40%;
+}
+.itms p {
+    color: white;
+    margin-right: 11px;
+}
+.def {
+    position: relative;
+}
+.navb {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+.navb h1, .firstp, .line {
+    margin-left: 40px;
+}
+img {
+    margin-right: 50px;
+}
+p {
+    color: #28C7FA;
+}
+.line {
+    width: 1259px;
+    height: 0;
+    border: 1px solid #6D6969;
+}
+.line-two {
+    position: absolute;
+    width: 740px;
+    height: 0px;
+    left: 30px;
+    top: 529px;
+    z-index: -1;
+    border: 1px solid #6D6969;
+    transform: rotate(90deg);
+}
+.lines {
+    position: absolute;
+    width: 432px;
+    top: 243px;
+    left: -88px;
+    z-index: -1;
+    border: 1px solid #6D6969;
+    transform: rotate(90deg);
+}
